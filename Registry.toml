@@ -6,4 +6,5 @@ repo = "https://github.com/oscar-system/OscarRegistry"
 3873f7d0-7b7c-52c3-bdf4-8ab39b8f337a = { name = "lrslib_jll", path = "L/lrslib_jll" }
 472f376f-f1cf-461b-9ac1-d103423be9b7 = { name = "LoadFlint", path = "L/LoadFlint" }
 508c9074-7a14-5c94-9582-3d4bc1871065 = { name = "bliss_jll", path = "B/bliss_jll" }
+eed32b90-88ce-5780-9b53-5165f3922f1e = { name = "ppl_jll", path = "P/ppl_jll" }
 f07e07eb-5685-515a-97c8-3014f6152feb = { name = "cddlib_jll", path = "C/cddlib_jll" }
