@@ -1,0 +1,5 @@
+name = "OscarRegistry"
+repo = "https://github.com/oscar-system/OscarRegistry"
+uuid = "799d1420-6865-11ea-2756-3530b1c2e9ab"
+
+[packages]
