@@ -1,0 +1,3 @@
+name = "perl_jll"
+uuid = "454b57e5-be5b-5d2e-8b87-0c7c7d0dfe4b"
+repo = "https://github.com/benlorenz/perl_jll.jl"
