@@ -24,7 +24,7 @@ The registry will be cloned in `$HOME/.julia/registries/OscarRegistry`.
 
 To add packages to the custom registry one has to use LocalRegistry package via:
 ```julia
-pkg> ]add https://github.com/GunnarFarneback/LocalRegistry.jl
+pkg> add https://github.com/GunnarFarneback/LocalRegistry.jl
 julia> using LocalRegistry
 ```
 
