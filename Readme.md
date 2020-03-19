@@ -7,6 +7,7 @@ Can also be used to test and share versioned packages that are not yet registere
 In the end all binary artifacts should be available from the main Julia
 registry, for this one needs to create a pull request to [Yggdrasil](https://github.com/JuliaPackaging/Yggdrasil).
 
+*Note:* Pkg artifacts need Julia version 1.3 or newer.
 
 ## Usage
 
