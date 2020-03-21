@@ -1,0 +1,3 @@
+name = "ninja_jll"
+uuid = "43d6905c-a154-5748-ac05-e201d127901c"
+repo = "https://github.com/benlorenz/ninja_jll.jl"
