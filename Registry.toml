@@ -3,6 +3,5 @@ uuid = "799d1420-6865-11ea-2756-3530b1c2e9ab"
 repo = "https://github.com/oscar-system/OscarRegistry"
 
 [packages]
-454b57e5-be5b-5d2e-8b87-0c7c7d0dfe4b = { name = "perl_jll", path = "P/perl_jll" }
 472f376f-f1cf-461b-9ac1-d103423be9b7 = { name = "LoadFlint", path = "L/LoadFlint" }
 7c209550-9012-526c-9264-55ba7a78ba2c = { name = "polymake_jll", path = "P/polymake_jll" }
